@@ -1,3 +1,3 @@
 INFO
 ------
-Rogold doesn't have everything free yet i'm still working on it.
+made by cylix#2977
